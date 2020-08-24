@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyRecrofitBasicApplication</string>
+    <string name="my_retrofit_basic_application">My Retrofit Basic Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="s_pref_file">pratiksha.example.myrecrofitbasicapplication.sh_preference_file</string>
+    <string name="s_pref_login_status">pratiksha.example.sh_preference_login_status</string>
+    <string name="s_pref_login_name">sh_preference_name</string>
+    <string name="s_pref_login_email">sh_preference_email</string>
+    <string name="s_pref_login_data">sh_preference_data</string>
+
+
+</resources>
